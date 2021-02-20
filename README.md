@@ -26,7 +26,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ### Notes
 
-Issues when loading YouTube at first. Was able to fix it by refreshing my app and signing into Google.
+Issues when loading YouTube at first. Was able to fix it by refreshing my app and signing into Google. I also destroyed the current API key in this repo.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
