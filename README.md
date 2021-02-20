@@ -22,11 +22,11 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ### App Walkthough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/Ricecrackerz/Flixster/blob/master/Flixster2.gif" width=250><br>
 
 ### Notes
 
-Describe any challenges encountered while building the app.
+Issues when loading YouTube at first. Was able to fix it by refreshing my app and signing into Google. I also destroyed the current API key in this repo.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
